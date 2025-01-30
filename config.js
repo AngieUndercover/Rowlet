@@ -14,11 +14,11 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-     {
-  "identifier": "Muzykant v4",
-  "password": "https://discord.gg/v6sdrD9kPh",
-  "host": "lavalink_v4.muzykant.xyz",
-  "port": 80,
+    {
+  "identifier": "Catfein ID",
+  "password": "catfein",
+  "host": "lava.catfein.com",
+  "port": 4000,
   "secure": false
     }
   ]
