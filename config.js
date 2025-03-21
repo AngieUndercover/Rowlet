@@ -14,7 +14,7 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-   {
+     {
   "identifier": "INZEWORLD.COM (DE)",
   "password": "saher.inzeworld.com",
   "host": "lava.inzeworld.com",
