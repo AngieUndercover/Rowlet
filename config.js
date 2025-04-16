@@ -14,7 +14,7 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-    {
+     {
   "identifier": "ChalresNaig Node",
   "password": "NAIGLAVA-dash.techbyte.host",
   "host": "lavahatry4.techbyte.host",
